@@ -1,6 +1,7 @@
 <template>
   <div class="app">
-    <router-view></router-view>
+    <SearchHistory></SearchHistory>
+    <SearchRecommond></SearchRecommond>
   </div>
 </template>
 
